@@ -267,5 +267,5 @@ so the cache from the parent will proceed to be valid and useful.
 
 ## With no more registration allowed
 
-[Explained in detail here](FaqAutofacMigration#separate-build-stage)
+[Explained in detail here](FaqAutofacMigration.md#separate-build-stage)
 
